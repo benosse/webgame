@@ -1,0 +1,19 @@
+{
+  "name": "web_game",
+  "version": "1.0.0",
+  "description": "a point anc click game for browser with three.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benosse/webgame.git"
+  },
+  "author": "benoit zenker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benosse/webgame/issues"
+  },
+  "homepage": "https://github.com/benosse/webgame#readme"
+}
